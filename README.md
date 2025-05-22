@@ -1,1 +1,1 @@
-# AI-Powered Financial Fraud Detection System
+# Finance & AI Analytics
